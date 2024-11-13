@@ -1,0 +1,34 @@
+.App {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .factContainer {
+    max-height: 700px;
+    overflow-y: auto;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    margin-top: 20px;
+  }
+  
+  .loader {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  .deleteButton {
+    background-color: #eca8db;
+    color: white;
+  }
